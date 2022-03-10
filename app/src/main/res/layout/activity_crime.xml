@@ -1,0 +1,2 @@
+<FrameLayout android:id="@+id/fragment_container"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
